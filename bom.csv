@@ -1,9 +1,8 @@
-| S.No. | Component | Quantity | Purpose |
-|---:|---|---:|---|
-| 1 | Arduino Uno / Nano | 1 | Main controller for reading sensors |
-| 2 | Soil Moisture Sensor | 1 | Measures soil moisture levels |
-| 3 | DHT11 Temperature and Humidity Sensor | 1 | Measures temperature and humidity |
-| 4 | MAX7219 32×8 Dot Matrix Display | 1 | Displays sensor readings |
-| 5 | Breadboard | 1 | Helps connect components during prototyping |
-| 6 | Jumper Wires | As required | Connects the components |
-| 7 | USB Cable | 1 | Powers and programs the Arduino |
+Item,Component,Quantity,Purpose
+1,Arduino Board,1,Main controller for sensor readings
+2,Soil Moisture Sensor,1,Measures soil moisture
+3,DHT11 Temperature and Humidity Sensor,1,Measures temperature and humidity
+4,MAX7219 32x8 Dot Matrix Display,1,Displays sensor readings
+5,Breadboard,1,Prototyping and circuit connections
+6,Jumper Wires,As required,Connecting electronic components
+7,USB Cable,1,Powering and programming the Arduino
